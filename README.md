@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">
+  <b>Hola, soy Gabriel</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<!--
-**Gaobers/Gaobers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Actualmente estudio un **Técnico en Ingeniería en Desarrollo de Software** y me apasiona seguir aprendiendo y mejorando mis habilidades como desarrollador. Aunque todavía estoy en proceso de crecimiento, llevo tiempo practicando y trabajando con distintas tecnologías enfocadas tanto al desarrollo web como al backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Me interesa especialmente el desarrollo **Backend**, y uno de mis principales objetivos es desarrollar un criterio sólido como desarrollador y seguir aprendiendo constantemente.
+
+🎮 Fuera de la programación me gustan:
+
+- Los videojuegos
+- La música
+- Ver series
+
+📫 Contacto:  
+[gabrielobandojobs@gmail.com](mailto:gabrielobandojobs@gmail.com)
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+## ⚒️ Herramientas y tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,cs,dotnet,azure,git,github,idea,vscode,supabase,postman&perline=7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
+</p>
+
+<br>
+
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaobers&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<br>
+
