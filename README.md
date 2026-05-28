@@ -9,12 +9,6 @@ Actualmente estudio un **Técnico en Ingeniería en Desarrollo de Software** y m
 
 🧠 Me interesa especialmente el desarrollo **Backend**, y uno de mis principales objetivos es desarrollar un criterio sólido como desarrollador y seguir aprendiendo constantemente.
 
-🎮 Fuera de la programación me gustan:
-
-- Los videojuegos
-- La música
-- Ver series
-
 📫 Contacto:  
 [gabrielobandojobs@gmail.com](mailto:gabrielobandojobs@gmail.com)
 
