@@ -25,11 +25,11 @@ Actualmente estudio un **Técnico en Ingeniería en Desarrollo de Software** y m
 
 <br>
 
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaobers&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=Gaobers&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaobers&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
 <br>
